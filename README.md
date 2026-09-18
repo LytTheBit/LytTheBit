@@ -140,8 +140,4 @@ but understanding why it works and finding a better way to build it.
 
 <sub>Feel free to explore the repositories, experiments and unfinished ideas.</sub>
 
-</div>### ✨ Thanks for stopping by!
-
-<sub>Feel free to explore the repositories and experiments below.</sub>
-
 </div>
