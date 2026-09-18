@@ -1,126 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=200&section=header&text=LytTheBit&fontSize=50&fontColor=7DD3FC&animation=fadeIn" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=210&section=header&text=LytTheBit&fontSize=52&fontColor=7DD3FC&animation=fadeIn" alt="LytTheBit banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&duration=2800&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&height=50&lines=Code+%E2%86%92+Graphics+%E2%86%92+Games+%E2%86%92+Experiments;Building+things+and+figuring+out+how+they+work;Computer+Science+%26+creative+coding;Python+%7C+TypeScript+%7C+JavaScript+%7C+C%23" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&duration=2800&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&height=50&lines=Code+%E2%86%92+Graphics+%E2%86%92+Games+%E2%86%92+Experiments;Computer+Graphics+%7C+Algorithms+%7C+Game+Development;Turning+small+ideas+into+working+projects;Always+building%2C+testing+and+learning" alt="Typing animation" />
 
 </div>
 
 <br>
 
-<h3 align="center">Code ➜ Graphics ➜ Games ➜ Experiments</h3>
+<h3 align="center">Software • Computer Graphics • Games • Experiments</h3>
 
 <p align="center">
-  <em>Developer focused on software projects, graphics experiments and curious side projects.</em>
+  <em>Developer and student interested in graphics, algorithms, interactive systems and creative software.</em>
 </p>
 
 <br>
 
-- 🧩 I like turning ideas into small, working projects.
-- 🎨 Interested in **computer graphics**, visual experiments and procedural systems.
-- 🎮 Exploring **game development** and interactive software.
-- 🐍 I use **Python**, **TypeScript**, **JavaScript** and **C#** across different projects.
-- 🗺️ Current projects include hexagonal maps, 3D simulations, image projections and game development.
+👋 About Me
 
-<br>
+💻 I enjoy building projects that sit between software, mathematics and visualisation.
 
-<div align="center">
-  <a href="https://github.com/LytTheBit">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub" />
-  </a>
-  <a href="https://github.com/LytTheBit?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Repositories" />
-  </a>
-</div>
+🎨 Particularly interested in computer graphics, simulations and procedural/algorithmic systems.
+
+🎮 Exploring game development and interactive experiences.
+
+🧪 A lot of my repositories are experiments: I like taking an idea and turning it into something I can run, see and improve.
+
+🗺️ Current interests include hexagonal maps, projections, 3D simulation, image processing and games.
 
 <hr>
 
-## 🛠️ Languages & Technologies
+🧰 Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=7DD3FC)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=7DD3FC)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=7DD3FC)
-![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=7DD3FC)
+
+
+
+
+
+
+
+</div>
+
+Area
+
+Focus
+
+🎨 Computer Graphics
+
+3D simulation, visualisation, geometry and rendering experiments
+
+🧭 Algorithms & Data
+
+Hexagonal grids, maps, projections and transformations
+
+🐍 Python
+
+Image processing, utilities, simulations and experimentation
+
+🌐 Web
+
+JavaScript / TypeScript projects and tooling
+
+🎮 Game Development
+
+Interactive projects and gameplay systems
+
+<hr>
+
+🚀 Projects
+
+🎨 Computer Graphics & Simulation
+
+Boids_CG
+A 3D Boids project developed for a Computer Graphics course, exploring flocking behaviour and simulation in a visual environment.
+
+Map-to-icosahedron
+An experiment around transforming a map/image representation onto an icosahedron, connecting image processing, geometry and projection.
+
+🗺️ Maps & Procedural Systems
+
+Hex_Cartographer
+A project centred around multi-level hexagonal maps, exploring data structures and the representation of spatial information on a hex grid.
+
+🖼️ Utilities & Image Processing
+
+Recolor_PDF
+A small utility for recolouring Daggerheart PDFs, built around practical image/document manipulation.
+
+🎮 Games
+
+NOTANDOR
+A video game project developed as part of a Game Development course, created collaboratively with the Novalynne team.
+
+<hr>
+
+🔬 What I Like Building
+
+Computer Graphics     ████████████████████
+Algorithms & Geometry ██████████████████
+Game Development      █████████████████
+Python                 ████████████████
+Creative Coding        ███████████████
+Web Development       █████████████
+
+<br>
+
+I like projects where the interesting part is not only making the software work,
+but understanding why it works and finding a better way to build it.
+
+<hr>
+
+📈 GitHub
+
+<div align="center">
+
+<a href="https://github.com/LytTheBit?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_my_repositories-0B1F3A?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Explore repositories" />
+</a>
+
+<a href="https://github.com/LytTheBit?tab=stars">
+  <img src="https://img.shields.io/badge/My_stars-0B1F3A?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="My stars" />
+</a>
 
 </div>
 
 <br>
 
-| Area | What I'm working on |
-| :--- | :--- |
-| 🎨 **Computer Graphics** | 3D simulations, procedural geometry & visual experiments |
-| 🗺️ **Algorithms & Data** | Hexagonal maps, projections & transformations |
-| 🐍 **Python** | Utilities, image processing & experimentation |
-| 🌐 **Web Development** | JavaScript / TypeScript projects |
-| 🎮 **Game Development** | Game projects and interactive systems |
+<p align="center">
+  <em>Most of the interesting stuff is down there ↓</em>
+</p>
 
 <hr>
 
-## 🚀 Featured Projects
-
 <div align="center">
 
-<a href="https://github.com/LytTheBit/Boids_CG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LytTheBit&repo=Boids_CG&theme=github_dark&hide_border=true" />
-</a>
+💙 Thanks for visiting
 
-<a href="https://github.com/LytTheBit/Hex_Cartographer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LytTheBit&repo=Hex_Cartographer&theme=github_dark&hide_border=true" />
-</a>
+<sub>Feel free to explore the repositories, experiments and unfinished ideas.</sub>
 
-<a href="https://github.com/LytTheBit/Map-to-icosahedron">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LytTheBit&repo=Map-to-icosahedron&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/LytTheBit/Recolor_PDF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LytTheBit&repo=Recolor_PDF&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-- **[Boids_CG](https://github.com/LytTheBit/Boids_CG)** — 3D boids project for a Computer Graphics course.
-- **[Hex_Cartographer](https://github.com/LytTheBit/Hex_Cartographer)** — a multi-level hexagonal map project.
-- **[Map-to-icosahedron](https://github.com/LytTheBit/Map-to-icosahedron)** — converts images into projections for a 20-sided die.
-- **[Recolor_PDF](https://github.com/LytTheBit/Recolor_PDF)** — utility for recoloring Daggerheart PDFs.
-- **[NOTANDOR](https://github.com/Novalynne/NOTANDOR)** — a video game developed for a Game Development course.
-
-<hr>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=LytTheBit&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="LytTheBit's GitHub Stats" />
-
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LytTheBit&layout=compact&theme=github_dark&hide_border=true" alt="LytTheBit's Top Languages" />
-
-<br><br>
-
-<img width="790" src="https://github-readme-streak-stats.herokuapp.com/?user=LytTheBit&theme=github-dark-blue&hide_border=true" alt="LytTheBit's GitHub Streak" />
-
-</div>
-
-<hr>
-
-## 🌱 What I'm Exploring
-
-```text
-Computer Graphics   ████████████████████
-Game Development    ██████████████████
-Python              █████████████████
-TypeScript          ████████████████
-Creative Coding     ███████████████
-```
-
-<br>
-
-<div align="center">
-
-### ✨ Thanks for stopping by!
+</div>### ✨ Thanks for stopping by!
 
 <sub>Feel free to explore the repositories and experiments below.</sub>
 
