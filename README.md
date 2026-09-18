@@ -124,4 +124,12 @@ Creative Coding     ███████████████
 
 <sub>Feel free to explore the repositories and experiments below.</sub>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LytTheBit/LytTheBit/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LytTheBit/LytTheBit/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LytTheBit/LytTheBit/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<hr>
+
 </div>
