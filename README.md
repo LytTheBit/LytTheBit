@@ -16,103 +16,85 @@
 
 <br>
 
-👋 About Me
+## 👋 About Me
 
-💻 I enjoy building projects that sit between software, mathematics and visualisation.
-
-🎨 Particularly interested in computer graphics, simulations and procedural/algorithmic systems.
-
-🎮 Exploring game development and interactive experiences.
-
-🧪 A lot of my repositories are experiments: I like taking an idea and turning it into something I can run, see and improve.
-
-🗺️ Current interests include hexagonal maps, projections, 3D simulation, image processing and games.
+- 💻 I enjoy building projects that sit between **software, mathematics and visualisation**.
+- 🎨 Particularly interested in **computer graphics**, simulations and procedural/algorithmic systems.
+- 🎮 Exploring **game development** and interactive experiences.
+- 🧪 A lot of my repositories are experiments: I like taking an idea and turning it into something I can run, see and improve.
+- 🗺️ Current interests include **hexagonal maps, projections, 3D simulation, image processing and games**.
 
 <hr>
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-
-
-
-
-
-
+![Python](https://img.shields.io/badge/Python-0B1F3A?style=for-the-badge&logo=python&logoColor=7DD3FC)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1F3A?style=for-the-badge&logo=typescript&logoColor=7DD3FC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1F3A?style=for-the-badge&logo=javascript&logoColor=7DD3FC)
+![C%23](https://img.shields.io/badge/C%23-0B1F3A?style=for-the-badge&logo=csharp&logoColor=7DD3FC)
+![Git](https://img.shields.io/badge/Git-0B1F3A?style=for-the-badge&logo=git&logoColor=7DD3FC)
+![GitHub](https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=7DD3FC)
 
 </div>
 
-Area
-
-Focus
-
-🎨 Computer Graphics
-
-3D simulation, visualisation, geometry and rendering experiments
-
-🧭 Algorithms & Data
-
-Hexagonal grids, maps, projections and transformations
-
-🐍 Python
-
-Image processing, utilities, simulations and experimentation
-
-🌐 Web
-
-JavaScript / TypeScript projects and tooling
-
-🎮 Game Development
-
-Interactive projects and gameplay systems
+| Area | Focus |
+| :--- | :--- |
+| 🎨 **Computer Graphics** | 3D simulation, visualisation, geometry and rendering experiments |
+| 🧭 **Algorithms & Data** | Hexagonal grids, maps, projections and transformations |
+| 🐍 **Python** | Image processing, utilities, simulations and experimentation |
+| 🌐 **Web** | JavaScript / TypeScript projects and tooling |
+| 🎮 **Game Development** | Interactive projects and gameplay systems |
 
 <hr>
 
-🚀 Projects
+## 🚀 Projects
 
-🎨 Computer Graphics & Simulation
+### 🎨 Computer Graphics & Simulation
 
-Boids_CG
+**[Boids_CG](https://github.com/LytTheBit/Boids_CG)**  
 A 3D Boids project developed for a Computer Graphics course, exploring flocking behaviour and simulation in a visual environment.
 
-Map-to-icosahedron
-An experiment around transforming a map/image representation onto an icosahedron, connecting image processing, geometry and projection.
+**[Map-to-icosahedron](https://github.com/LytTheBit/Map-to-icosahedron)**  
+An experiment around transforming a map/image representation onto an **icosahedron**, connecting image processing, geometry and projection.
 
-🗺️ Maps & Procedural Systems
+### 🗺️ Maps & Procedural Systems
 
-Hex_Cartographer
-A project centred around multi-level hexagonal maps, exploring data structures and the representation of spatial information on a hex grid.
+**[Hex_Cartographer](https://github.com/LytTheBit/Hex_Cartographer)**  
+A project centred around **multi-level hexagonal maps**, exploring data structures and the representation of spatial information on a hex grid.
 
-🖼️ Utilities & Image Processing
+### 🖼️ Utilities & Image Processing
 
-Recolor_PDF
-A small utility for recolouring Daggerheart PDFs, built around practical image/document manipulation.
+**[Recolor_PDF](https://github.com/LytTheBit/Recolor_PDF)**  
+A small utility for **recolouring Daggerheart PDFs**, built around practical image/document manipulation.
 
-🎮 Games
+### 🎮 Games
 
-NOTANDOR
+**[NOTANDOR](https://github.com/Novalynne/NOTANDOR)**  
 A video game project developed as part of a Game Development course, created collaboratively with the Novalynne team.
 
 <hr>
 
-🔬 What I Like Building
+## 🔬 What I Like Building
 
+```text
 Computer Graphics     ████████████████████
 Algorithms & Geometry ██████████████████
 Game Development      █████████████████
 Python                 ████████████████
 Creative Coding        ███████████████
 Web Development       █████████████
+```
 
 <br>
 
-I like projects where the interesting part is not only making the software work,
-but understanding why it works and finding a better way to build it.
+> I like projects where the interesting part is not only making the software work,
+> but understanding **why it works** and finding a better way to build it.
 
 <hr>
 
-📈 GitHub
+## 📈 GitHub
 
 <div align="center">
 
@@ -136,7 +118,7 @@ but understanding why it works and finding a better way to build it.
 
 <div align="center">
 
-💙 Thanks for visiting
+### 💙 Thanks for visiting
 
 <sub>Feel free to explore the repositories, experiments and unfinished ideas.</sub>
 
